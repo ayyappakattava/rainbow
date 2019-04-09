@@ -4,5 +4,6 @@ orange
 blue
 green yellow
 white
+keeping same color
 
 this are mager color in your rainbow
