@@ -4,5 +4,6 @@ orange
 blue
 green yellow
 white
+white
 
 this are mager color in your rainbow
